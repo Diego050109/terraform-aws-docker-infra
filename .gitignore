@@ -1,0 +1,7 @@
+# Ignorar carpeta .terraform y archivos generados
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfstate
+terraform.tfstate.backup
